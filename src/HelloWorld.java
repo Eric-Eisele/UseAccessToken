@@ -5,7 +5,7 @@ public class HelloWorld {
 		
 
 		System.out.println("Helllo World!");
-		System.out.println("Another line of Stuff!");
+		System.out.println("Alternate line of Stuff!");
 		
 		
 	}
